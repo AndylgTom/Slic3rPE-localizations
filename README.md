@@ -1,4 +1,4 @@
-# Russian localizations for the Slic3r Prusa Edition
+# Russian localization for the Slic3r Prusa Edition
 
 ## Current list
 
